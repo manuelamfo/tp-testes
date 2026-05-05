@@ -1,6 +1,5 @@
 # Trabalho Prático - Teste de Software
 Sistema de automação para notificação assíncrona de e-mails, incluindo validação por testes na aplicação.
-
 Integrantes: Manuela Monteiro Fernandes de Oliveira e Sarah Menks Sperber
 
 **Funcionalidades:**
