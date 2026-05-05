@@ -17,4 +17,4 @@ Sistema de automação para notificação assíncrona de e-mails, incluindo vali
 - Criação de uma interface gráfica;
 - Integração com planilhas para enviar um e-mail quando reconhece uma nova entrada;
 
-*Integrantes*: Manuela Monteiro Fernandes de Oliveira e Sarah Menks Sperber
+*Integrantes*: Ari Gonçalves da Silva Filho, Manuela Monteiro Fernandes de Oliveira e Sarah Menks Sperber
